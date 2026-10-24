@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Food Distribution",
+      "about": "Calgary Drop-In is recruiting volunteers to help with food distribution.",
+      "organizer": "Calgary Drop-In",
+      "date": "Oct 20, 2026 11:00 AM",
+      "time": "11:00 AM",
+      "phone": "4035550100",
+      "requiredVolunteers": 10,
+      "volunteers": [],
+      "position": {
+        "latitude": 51.0447,
+        "longitude": -114.0719
+      },
+      "images": [
+        {
+          "id": "1",
+          "url": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=500"
+        }
+      ]
+    }
+  ],
+  "login": {
+    "accessToken": "eyJhbGciOiJub25lIn0.eyJleHAiOjQxMDI0NDQ4MDB9.demo",
+    "user": {
+      "id": "demo-user-1",
+      "name": { "first": "Demo", "last": "Volunteer" },
+      "email": "volunteer@example.com",
+      "mobile": "4035550100"
+    }
+  }
+}
